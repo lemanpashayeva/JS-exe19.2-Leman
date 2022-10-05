@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 400px;
+    opacity: 0.8;
+}
+
+.title {
+    background-color: peru;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.title i {
+    padding-left: 300px;
+}
+
+.text {
+    background-color: burlywood;
+    padding: 10px;
+}
